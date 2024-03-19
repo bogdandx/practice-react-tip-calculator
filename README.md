@@ -1,1 +1,3 @@
-# practice-react-tip-calculator
+Tip Calculator
+
+![screenshot](screenshot.png)
